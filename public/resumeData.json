@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Olger Sema",
+    "occupation": "ReactJS Developer && Javascript Developer",
+    "description": "Full Stack React Developer by Day, Coding is my passion my blode is  writen in code",
+    "image": "IG_Olger.jpg",
+    "bio": "My name is Olger, I'm a Front End ReactJS and Javascript Developer. Currently I'm working as a Developer at Fiverr.com as a Freelancer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "osema6@gmail.com",
+    "phone": "+355 69 9197 499",
+    "address": {
+      "street": "Komuna e Parisit road",
+      "city": "Albania",
+      "state": "AL",
+      "zip": "1001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/olger.sema",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/olgersema/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/olgersema/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ultimo123",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Albania",
+        "degree": "Masters in Geomatic",
+        "graduated": "January 2016",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Hitachi Rail",
+        "title": "Data Porter && Graphic Designer",
+        "years": "April 2019 - Present",
+        "description": "Analyzing the method of transforming existing data into a format for the new environment and the loading of this data into other database structures"
+      },
+      {
+        "company": "Fiverr",
+        "title": "Front End Developer",
+        "years": "Jan 2020 - Present",
+        "description": "Building the UI part of the websites that the client need.Build reusable code and libraries for future use."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Photoshop && Adobe Illustrator",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Olger is a very stuborn person,he wants always to solve the problem no matter what.",
+        "user": "Dario Todario"
+      },
+      {
+        "text": "That Olger Sema must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may not have finished the  University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Edmond kukeli"
+      }
+    ]
+  }
+}

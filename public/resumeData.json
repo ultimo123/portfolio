@@ -101,34 +101,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone Build with React and Firebase",
+        "image": "amazon-clone.jpg",
+        "url": "https://github.com/ultimo123/amazonClone"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Discord Clone",
+        "category": "Discord Clone Build with React and Firebase",
+        "image": "discord-clone.png",
+        "url": "https://github.com/ultimo123/discord-clone"
       },
       {
-        "title": "Facebook Clone with React",
+        "title": "WhatsUp Clone with React",
+        "category": "WhatsUp Clone built with ReactJS",
+        "image": "whats-clone.jpg",
+        "url": "https://github.com/ultimo123/whatsApp-clone"
+      },
+      {
+        "title": "Tinder Clone",
+        "category": "Tinder Clone built with ReactJS",
+        "image": "tinder-clone.jpg",
+        "url": "https://github.com/ultimo123/tinder-clone"
+      },
+      {
+        "title": "Facebook Clone",
         "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "image": "facebook-clone.jpg",
+        "url": "https://github.com/ultimo123/facebook-clone"
       }
     ]
   },
